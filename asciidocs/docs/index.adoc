@@ -1,4 +1,22 @@
-= Index page
-ifndef::imagesdir[:imagesdir: images]
 
-image::img.png[]
+
+== 1. Projektname
+CookCraft – Create with What You Have
+
+== 2. Projektbeschreibung
+Viele Menschen stehen täglich vor der Frage: *"Was kann ich mit den Zutaten kochen, die ich zu Hause habe?"*. Die mobile App bietet eine einfache Lösung, indem sie den Nutzern ermöglicht, vorhandene Grundzutaten einzugeben und darauf basierend passende Rezepte vorschlägt. Die App soll Nutzern helfen, schnell und einfach gesunde Gerichte zu entdecken und gleichzeitig Lebensmittelverschwendung zu vermeiden.
+
+== 3. Funktionen des Projekts
+
+1. **Zutaten-Eingabe:** Benutzer können Grundzutaten eingeben.
+2. **Rezeptvorschläge generiert:** Basierend auf den eingegebenen Zutaten werden relevante Rezepte angezeigt.
+3. **Personalisierung:** Nutzer können ihre Ernährungsgewohnheiten wie vegan oder vegetarisch einstellen.
+
+== 4. Zielgruppe
+Die App richtet sich an Haushalte, die kreative Inspiration beim Kochen suchen, sowie an Menschen, die ihre vorhandenen Zutaten optimal nutzen möchten, um Lebensmittelverschwendung zu vermeiden.
+
+== 5. Fazit
+Die App bietet eine einfache und effiziente Lösung, um passende Rezepte basierend auf den vorhandenen Zutaten zu finden. Sie ist besonders nützlich für Menschen, die neue Rezepte entdecken möchten und gleichzeitig Wert auf Nachhaltigkeit legen.
+
+
+
